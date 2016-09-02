@@ -3,3 +3,5 @@
 # Some markdown
 *click below*
 <a href="example.com" target="_blank">New Tab</a>
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
